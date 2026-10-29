@@ -9,3 +9,4 @@
 - [ ] Ho letto le linee guida in `CONTRIBUTING.md`
 - [ ] Nessun file vietato (env, binari, archivi, chiavi/certificati)
 - [ ] Nessun segreto o credenziale
+- [ ] Ok
